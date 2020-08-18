@@ -10,6 +10,8 @@ app.use(cors())
 
 const port = 8080
 
+const test2 = 'test2'
+
 app.use(express.json());
 
 
